@@ -11,5 +11,5 @@ def second_challenge
 new_list = groceries.values
 new_list.flatten
   
-end
+
 end
